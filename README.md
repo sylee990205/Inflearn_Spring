@@ -16,10 +16,10 @@
 
 | 강의명        | 진행 상태 | 수강 완료일 |
 | ---------- | ----- | ------ |
-| 프로젝트 생성    | :black_square_button:      |        |
-| 라이브러리 살펴보기 |  :black_square_button:     |        |
-| View 환경설정  |  :black_square_button:     |        |
-| 빌드하고 실행하기  | :black_square_button:      |
+| 프로젝트 생성    | :ballot_box_with_check:      |     230318   |
+| 라이브러리 살펴보기 |  :ballot_box_with_check:     |        230318 |
+| View 환경설정  |  :ballot_box_with_check:     | 230318       |
+| 빌드하고 실행하기  | :ballot_box_with_check:     |230318
 
 
 

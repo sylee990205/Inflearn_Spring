@@ -27,9 +27,9 @@
 
 | 강의명         | 진행 상태                 | 수강 완료일 |
 | ----------- | --------------------- | ------ |
-| 정적 컨텐츠      | :black_square_button: |        |
-| MVC와 템플릿 엔진 | :black_square_button: |        |
-| API         | :black_square_button: |
+| 정적 컨텐츠      | :ballot_box_with_check: | 230318       |
+| MVC와 템플릿 엔진 | :ballot_box_with_check: | 230318       |
+| API         | :ballot_box_with_check: | 230318
 
 
 

@@ -37,19 +37,19 @@
 
 | 강의명                 | 진행 상태                 | 수강 완료일 |
 | ------------------- | --------------------- | ------ |
-| 비즈니스 요구사항 정리        | :black_square_button: |        |
-| 회원 도메인과 리포지토리 만들기   | :black_square_button: |        |
-| 회원 리포지토리 테스트 케이스 작성 | :black_square_button: |        |
-| 회원 서비스 개발           | :black_square_button: |        |
-| 회원 서비스 테스트          | :black_square_button: |
+| 비즈니스 요구사항 정리        | :ballot_box_with_check: |  230319      |
+| 회원 도메인과 리포지토리 만들기   | :ballot_box_with_check: | 230319       |
+| 회원 리포지토리 테스트 케이스 작성 | :ballot_box_with_check: | 230319       |
+| 회원 서비스 개발           | :ballot_box_with_check: | 230319       |
+| 회원 서비스 테스트          | :ballot_box_with_check: | 230319
 
 
 ### 섹션 4. 스프링 빈과 의존관계
 
 | 강의명                  | 진행 상태                 | 수강 완료일 |
 | -------------------- | --------------------- | ------ |
-| 컴포넌트 스캔과 자동 의존관계 설정  | :black_square_button: |        |
-| 자바 코드로 직접 스프링 빈 등록하기 | :black_square_button: |
+| 컴포넌트 스캔과 자동 의존관계 설정  | :ballot_box_with_check: | 230319       |
+| 자바 코드로 직접 스프링 빈 등록하기 | :ballot_box_with_check: | 230319
 
 
 ### 섹션 5. 회원 관리 예제 - 웹 MVC 개발
